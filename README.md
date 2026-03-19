@@ -23,7 +23,7 @@
 </p>
 
 <details>
-  <summary align="center"><b>&emsp;&emsp;🦇 ENTRA A LA BATICUEVA 🦇&emsp;&emsp;</b></summary>
+  <summary align="center"><b>&emsp;&emsp; ENTRA A LA BATICUEVA &emsp;&emsp;</b></summary>
   <br>
 
   <h3 align="center">🛠️ MI CINTURON DE SERVICIO</h3>
