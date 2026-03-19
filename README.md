@@ -7,11 +7,15 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=35&pause=1000&color=F1C40F&center=true&vCenter=true&width=600&lines=I+AM+THE+NIGHT;SYSTEMS+ENGINEERING+STUDENT;I+AM+VENGEANCE;PYTHON+•+JAVA+•+KOTLIN">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=32&pause=1000&color=F1C40F&center=true&vCenter=true&width=650&height=100&lines=MY+NAME+IS+JORGE;I'M+A+SYSTEMS+ENGINEER;STUDENT+•+DEVELOPER">
   </a>
 </p>
 
-<p align="center"><b>"It's not who I am underneath, but what I do that defines me."</b></p>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Permanent+Marker&size=30&pause=5000&color=FF0000&center=true&vCenter=true&width=500&lines=I+AM+VENGEANCE...;I+AM+THE+NIGHT...;I+AM+BATMAN">
+  </a>
+</p>
 </div>
 
 <p align="center">
