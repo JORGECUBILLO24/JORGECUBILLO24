@@ -22,7 +22,7 @@
   <img src="https://raw.githubusercontent.com/JORGECUBILLO24/JORGECUBILLO24/main/045b89d7-e576-4495-b862-f7f36cc3eefb-removebg-preview.png" width="180" alt="Jorge">
 </p>
 
-<details open>
+<details>
   <summary align="center"><b>&emsp;&emsp;🦇 ACCEDER A LA BATICUEVA 🦇&emsp;&emsp;</b></summary>
   <br>
 
