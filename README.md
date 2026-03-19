@@ -23,10 +23,10 @@
 </p>
 
 <details>
-  <summary align="center"><b>&emsp;&emsp;🦇 ACCEDER A LA BATICUEVA 🦇&emsp;&emsp;</b></summary>
+  <summary align="center"><b>&emsp;&emsp;🦇 ENTRA A LA BATICUEVA 🦇&emsp;&emsp;</b></summary>
   <br>
 
-  <h3 align="center">🛠️ MY UTILITY BELT (TECH STACK)</h3>
+  <h3 align="center">🛠️ MI CINTURON DE SERVICIO</h3>
   
   <div align="center">
     <table align="center">
